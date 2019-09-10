@@ -1,0 +1,19 @@
+<data>
+    <person>
+        <firstname>Karan</firstname>
+        <lastname>Pandya</lastname>
+        <address>
+            <city>kolkata</city>
+            <state>bengal</state>
+        </address>
+    </person>
+    <person>
+        <firstname>abhay</firstname>
+        <lastname>arora</lastname>
+        <address>
+            <city>delhi</city>
+            <state>delhi</state>
+        </address>
+    </person>
+</data>
+
